@@ -1,6 +1,6 @@
-# 🚀 Repo Analyser
+# 🚀 Repo Analyzer
 
-Repo Analyser is a full-stack application that performs deep analysis of public GitHub repositories. It assesses repository health, identifies structural patterns, visualizes commit history, highlights top contributors, and leverages **Agentic AI (Groq)** to generate architecture summaries and contribution guides.
+Repo Analyzer is a full-stack application that performs deep analysis of public GitHub repositories. It assesses repository health, identifies structural patterns, visualizes commit history, highlights top contributors, and leverages **Agentic AI (Groq)** to generate architecture summaries and contribution guides.
 
 ## ✨ Features
 
